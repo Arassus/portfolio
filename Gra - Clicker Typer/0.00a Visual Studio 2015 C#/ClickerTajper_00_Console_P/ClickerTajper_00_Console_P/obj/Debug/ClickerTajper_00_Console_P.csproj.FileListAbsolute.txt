@@ -1,0 +1,32 @@
+D:\Programowanie\Własne\009 - Clicker Typer\ClickerTajper_00_Console_P\ClickerTajper_00_Console_P\bin\Debug\ClickerTajper_00_Console_P.exe.config
+D:\Programowanie\Własne\009 - Clicker Typer\ClickerTajper_00_Console_P\ClickerTajper_00_Console_P\bin\Debug\ClickerTajper_00_Console_P.exe
+D:\Programowanie\Własne\009 - Clicker Typer\ClickerTajper_00_Console_P\ClickerTajper_00_Console_P\bin\Debug\ClickerTajper_00_Console_P.pdb
+D:\Programowanie\Własne\009 - Clicker Typer\ClickerTajper_00_Console_P\ClickerTajper_00_Console_P\obj\Debug\ClickerTajper_00_Console_P.exe
+D:\Programowanie\Własne\009 - Clicker Typer\ClickerTajper_00_Console_P\ClickerTajper_00_Console_P\obj\Debug\ClickerTajper_00_Console_P.pdb
+D:\Programowanie\Własne\009 - Clicker Typer\ClickerTajper_00_Console_P\ClickerTajper_00_Console_P\obj\Debug\ClickerTajper_00_Console_P.csprojResolveAssemblyReference.cache
+D:\Programowanie\Własne\009 - Clicker Typer\ClickerTajper_00_Console_P\ClickerTajper_00_Console_P\obj\Debug\ClickerTajper_00_Console_P.Rozgrywka.resources
+D:\Programowanie\Własne\009 - Clicker Typer\ClickerTajper_00_Console_P\ClickerTajper_00_Console_P\obj\Debug\ClickerTajper_00_Console_P.csproj.GenerateResource.Cache
+C:\Users\ARASSUSMINI\Desktop\Rotacja\009 - Clicker Typer\ClickerTajper_00_Console_P\ClickerTajper_00_Console_P\bin\Debug\ClickerTajper_00_Console_P.exe.config
+C:\Users\ARASSUSMINI\Desktop\Rotacja\009 - Clicker Typer\ClickerTajper_00_Console_P\ClickerTajper_00_Console_P\obj\Debug\ClickerTajper_00_Console_P.exe
+C:\Users\ARASSUSMINI\Desktop\Rotacja\009 - Clicker Typer\ClickerTajper_00_Console_P\ClickerTajper_00_Console_P\obj\Debug\ClickerTajper_00_Console_P.pdb
+C:\Users\ARASSUSMINI\Desktop\Rotacja\009 - Clicker Typer\ClickerTajper_00_Console_P\ClickerTajper_00_Console_P\obj\Debug\ClickerTajper_00_Console_P.csprojResolveAssemblyReference.cache
+C:\Users\ARASSUSMINI\Desktop\Rotacja\009 - Clicker Typer\ClickerTajper_00_Console_P\ClickerTajper_00_Console_P\obj\Debug\ClickerTajper_00_Console_P.Rozgrywka.resources
+C:\Users\ARASSUSMINI\Desktop\Rotacja\009 - Clicker Typer\ClickerTajper_00_Console_P\ClickerTajper_00_Console_P\obj\Debug\ClickerTajper_00_Console_P.csproj.GenerateResource.Cache
+C:\Users\ARASSUSMINI\Desktop\Rotacja\009 - Clicker Typer\ClickerTajper_00_Console_P\ClickerTajper_00_Console_P\bin\Debug\ClickerTajper_00_Console_P.exe
+C:\Users\ARASSUSMINI\Desktop\Rotacja\009 - Clicker Typer\ClickerTajper_00_Console_P\ClickerTajper_00_Console_P\bin\Debug\ClickerTajper_00_Console_P.pdb
+C:\Users\Arass\Desktop\Rotacja\009 - Clicker Typer\ClickerTajper_00_Console_P\ClickerTajper_00_Console_P\bin\Debug\ClickerTajper_00_Console_P.exe.config
+C:\Users\Arass\Desktop\Rotacja\009 - Clicker Typer\ClickerTajper_00_Console_P\ClickerTajper_00_Console_P\obj\Debug\ClickerTajper_00_Console_P.exe
+C:\Users\Arass\Desktop\Rotacja\009 - Clicker Typer\ClickerTajper_00_Console_P\ClickerTajper_00_Console_P\obj\Debug\ClickerTajper_00_Console_P.pdb
+C:\Users\Arass\Desktop\Rotacja\009 - Clicker Typer\ClickerTajper_00_Console_P\ClickerTajper_00_Console_P\bin\Debug\ClickerTajper_00_Console_P.exe
+C:\Users\Arass\Desktop\Rotacja\009 - Clicker Typer\ClickerTajper_00_Console_P\ClickerTajper_00_Console_P\bin\Debug\ClickerTajper_00_Console_P.pdb
+C:\Users\Arass\Desktop\Rotacja\009 - Clicker Typer\ClickerTajper_00_Console_P\ClickerTajper_00_Console_P\obj\Debug\ClickerTajper_00_Console_P.csprojResolveAssemblyReference.cache
+C:\Users\Arass\Desktop\Rotacja\009 - Clicker Typer\ClickerTajper_00_Console_P\ClickerTajper_00_Console_P\obj\Debug\ClickerTajper_00_Console_P.Rozgrywka.resources
+C:\Users\Arass\Desktop\Rotacja\009 - Clicker Typer\ClickerTajper_00_Console_P\ClickerTajper_00_Console_P\obj\Debug\ClickerTajper_00_Console_P.csproj.GenerateResource.Cache
+C:\Users\ARASSUSMINI\Desktop\ClickerTajper_00_Console_P\ClickerTajper_00_Console_P\bin\Debug\ClickerTajper_00_Console_P.exe.config
+C:\Users\ARASSUSMINI\Desktop\ClickerTajper_00_Console_P\ClickerTajper_00_Console_P\obj\Debug\ClickerTajper_00_Console_P.exe
+C:\Users\ARASSUSMINI\Desktop\ClickerTajper_00_Console_P\ClickerTajper_00_Console_P\obj\Debug\ClickerTajper_00_Console_P.pdb
+C:\Users\ARASSUSMINI\Desktop\ClickerTajper_00_Console_P\ClickerTajper_00_Console_P\bin\Debug\ClickerTajper_00_Console_P.exe
+C:\Users\ARASSUSMINI\Desktop\ClickerTajper_00_Console_P\ClickerTajper_00_Console_P\bin\Debug\ClickerTajper_00_Console_P.pdb
+C:\Users\ARASSUSMINI\Desktop\ClickerTajper_00_Console_P\ClickerTajper_00_Console_P\obj\Debug\ClickerTajper_00_Console_P.csprojResolveAssemblyReference.cache
+C:\Users\ARASSUSMINI\Desktop\ClickerTajper_00_Console_P\ClickerTajper_00_Console_P\obj\Debug\ClickerTajper_00_Console_P.Rozgrywka.resources
+C:\Users\ARASSUSMINI\Desktop\ClickerTajper_00_Console_P\ClickerTajper_00_Console_P\obj\Debug\ClickerTajper_00_Console_P.csproj.GenerateResource.Cache
