@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Prjkt" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Prjkt" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Prjkt" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="D:/Programowanie/Własne/007 Karcianka_CBVB_00/Prjkt/hf" />
+		</Compiler>
+		<Unit filename="cf/Gra.cpp" />
+		<Unit filename="cf/Gracz.cpp" />
+		<Unit filename="cf/Karta.cpp" />
+		<Unit filename="cf/MenuGlowne.cpp" />
+		<Unit filename="cf/Plansza.cpp" />
+		<Unit filename="cf/main.cpp" />
+		<Unit filename="hf/Gra.h" />
+		<Unit filename="hf/Gracz.h" />
+		<Unit filename="hf/Karta.h" />
+		<Unit filename="hf/MenuGlowne.h" />
+		<Unit filename="hf/Plansza.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

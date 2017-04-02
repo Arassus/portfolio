@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1457711639 source:d:\programowanie\w³asne\007 karcianka_cbvb_00\prjkt\cf\gra.cpp
+	<Gra.h>
+	<MenuGlowne.h>
+	<Plansza.h>
+	<Gracz.h>
+	<Karta.h>
+
+1455897310 source:d:\programowanie\w³asne\007 karcianka_cbvb_00\prjkt\cf\main.cpp
+	<Gra.h>
+	<iostream>
+	<Gracz.h>
+	<Plansza.h>
+
+1456334956 d:\programowanie\w³asne\007 karcianka_cbvb_00\prjkt\hf\gra.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1452971770 source:d:\programowanie\w³asne\007 karcianka_cbvb_00\prjkt\cf\kolejnosc.cpp
+
+1452981382 d:\programowanie\w³asne\007 karcianka_cbvb_00\prjkt\hf\menuglowne.h
+
+1452982215 d:\programowanie\w³asne\007 karcianka_cbvb_00\prjkt\hf\kolejnosc.h
+
+1457292502 source:d:\programowanie\w³asne\007 karcianka_cbvb_00\prjkt\cf\menuglowne.cpp
+	<MenuGlowne.h>
+	<iostream>
+
+1453048321 source:d:\programowanie\w³asne\007 karcianka_cbvb_00\prjkt\cf\planszepvp.cpp
+	<PlanszaPvP.h>
+
+1457659651 source:d:\programowanie\w³asne\007 karcianka_cbvb_00\prjkt\cf\gracz.cpp
+	<Gracz.h>
+
+1457659651 d:\programowanie\w³asne\007 karcianka_cbvb_00\prjkt\hf\gracz.h
+	<string>
+	<iostream>
+
+1453048217 d:\programowanie\w³asne\007 karcianka_cbvb_00\prjkt\hf\planszapvp.h
+
+1457659651 source:d:\programowanie\w³asne\007 karcianka_cbvb_00\prjkt\cf\plansza.cpp
+	<Plansza.h>
+	<algorithm>
+	<functional>
+
+1456482277 d:\programowanie\w³asne\007 karcianka_cbvb_00\prjkt\hf\plansza.h
+	<string>
+	<iostream>
+
+1453665215 d:\programowanie\w³asne\007 karcianka_cbvb_00\prjkt\hf\karta.h
+	<string>
+	<iostream>
+
+1453666518 source:d:\programowanie\w³asne\007 karcianka_cbvb_00\prjkt\cf\karta.cpp
+	<Karta.h>
+
+1455732623 source:d:\programowanie\w³asne\007 karcianka_cbvb_00\prjkt\hf\gracz.h
+	<string>
+	<iostream>
+
+1456339063 source:d:\programowanie\w³asne\007 karcianka_cbvb_00\prjkt\hf\plansza.h
+	<string>
+	<iostream>
+
