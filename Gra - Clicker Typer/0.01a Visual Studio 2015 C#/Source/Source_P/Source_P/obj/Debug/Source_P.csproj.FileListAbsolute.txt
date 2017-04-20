@@ -1,0 +1,6 @@
+D:\Programowanie\Własne\009 - Clicker Typer\0.01a build\Source\Source_P\Source_P\bin\Debug\Source_P.exe.config
+D:\Programowanie\Własne\009 - Clicker Typer\0.01a build\Source\Source_P\Source_P\bin\Debug\Source_P.exe
+D:\Programowanie\Własne\009 - Clicker Typer\0.01a build\Source\Source_P\Source_P\bin\Debug\Source_P.pdb
+D:\Programowanie\Własne\009 - Clicker Typer\0.01a build\Source\Source_P\Source_P\obj\Debug\Source_P.csprojResolveAssemblyReference.cache
+D:\Programowanie\Własne\009 - Clicker Typer\0.01a build\Source\Source_P\Source_P\obj\Debug\Source_P.exe
+D:\Programowanie\Własne\009 - Clicker Typer\0.01a build\Source\Source_P\Source_P\obj\Debug\Source_P.pdb
