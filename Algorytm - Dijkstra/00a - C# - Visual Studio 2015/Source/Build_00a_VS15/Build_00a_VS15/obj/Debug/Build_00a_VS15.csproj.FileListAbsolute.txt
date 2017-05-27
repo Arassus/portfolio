@@ -1,0 +1,16 @@
+J:\Programowanie\025 - Janusz\Build_00a_VS15\Build_00a_VS15\bin\Debug\Build_00a_VS15.exe.config
+J:\Programowanie\025 - Janusz\Build_00a_VS15\Build_00a_VS15\obj\Debug\Build_00a_VS15.csprojResolveAssemblyReference.cache
+J:\Programowanie\025 - Janusz\Build_00a_VS15\Build_00a_VS15\bin\Debug\Build_00a_VS15.exe
+J:\Programowanie\025 - Janusz\Build_00a_VS15\Build_00a_VS15\bin\Debug\Build_00a_VS15.pdb
+J:\Programowanie\025 - Janusz\Build_00a_VS15\Build_00a_VS15\obj\Debug\Build_00a_VS15.exe
+J:\Programowanie\025 - Janusz\Build_00a_VS15\Build_00a_VS15\obj\Debug\Build_00a_VS15.pdb
+J:\Programowanie\025 - Janusz\Build_00a_VS15\Build_00a_VS15\obj\Debug\Build_00a_VS15.Klasy.Okno.resources
+J:\Programowanie\025 - Janusz\Build_00a_VS15\Build_00a_VS15\obj\Debug\Build_00a_VS15.csproj.GenerateResource.Cache
+C:\Users\Arass\Desktop\025 - Janusz\Build_00a_VS15\Build_00a_VS15\bin\Debug\Build_00a_VS15.exe.config
+C:\Users\Arass\Desktop\025 - Janusz\Build_00a_VS15\Build_00a_VS15\obj\Debug\Build_00a_VS15.exe
+C:\Users\Arass\Desktop\025 - Janusz\Build_00a_VS15\Build_00a_VS15\obj\Debug\Build_00a_VS15.pdb
+C:\Users\Arass\Desktop\025 - Janusz\Build_00a_VS15\Build_00a_VS15\bin\Debug\Build_00a_VS15.exe
+C:\Users\Arass\Desktop\025 - Janusz\Build_00a_VS15\Build_00a_VS15\bin\Debug\Build_00a_VS15.pdb
+C:\Users\Arass\Desktop\025 - Janusz\Build_00a_VS15\Build_00a_VS15\obj\Debug\Build_00a_VS15.csprojResolveAssemblyReference.cache
+C:\Users\Arass\Desktop\025 - Janusz\Build_00a_VS15\Build_00a_VS15\obj\Debug\Build_00a_VS15.Klasy.Okno.resources
+C:\Users\Arass\Desktop\025 - Janusz\Build_00a_VS15\Build_00a_VS15\obj\Debug\Build_00a_VS15.csproj.GenerateResource.Cache
